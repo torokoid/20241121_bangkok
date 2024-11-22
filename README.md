@@ -177,9 +177,10 @@ p.note { display: none; }
 <h2><span class="yellow">これも日本では見なくなった、ボンネット開放冷却</span></h2>
 <a href="20241121_016.JPG" target="_blank"><img src="20241121_016.JPG" alt="サンプル画像" width="900" /></a>
 
+<br><br>
 
-
-
+<h2><span class="yellow">今回行ったショッピングモールは宇都宮ベルモールの1.5倍の長さですが、<br>売り場フロアがベルモール2階に対して4階分、内部の通路がやや迷路チックで初めて行くと迷子になりそうでした。</span></h2>
+<a href="20241121_001.png" target="_blank"><img src="20241121_001.png" alt="サンプル画像" width="900" /></a>
 
 
 <br><br><br>
