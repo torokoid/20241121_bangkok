@@ -179,8 +179,8 @@ p.note { display: none; }
 
 <br><br>
 
-<h2><span class="yellow">今回行ったショッピングモールは宇都宮ベルモールの1.5倍の長さですが、<br>売り場フロアがベルモール2階に対して4階分、内部の通路がやや迷路チックで初めて行くと迷子になりそうでした。</span></h2>
-<a href="20241121_001.png" target="_blank"><img src="20241121_001.png" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">今回行ったショッピングモールは宇都宮ベルモールの1.5倍の長さですが、<br>売り場フロアがベルモール2階に対して4階分、<br>内部の通路がやや迷路チックで初めて行くと迷子になりそうでした。<br>画像のクリックでGoogleMapsに飛びます</span></h2>
+<a href="https://www.google.com/maps/@13.7627566,100.5809492,1088m/data=!3m1!1e3!5m1!1e2?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D" target="_blank"><img src="20241121_001.png" alt="サンプル画像" width="900" /></a>
 
 
 <br><br><br>
