@@ -117,7 +117,7 @@ p.note { display: none; }
 
 <!--QRコードの挿入例-->
 <p align="left"> <img src="QR_2024Nov21.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
-<p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
+<p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~alis</marquee></p>
 
 <!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="left">!!! 2024/11/21 、タイ2日目は, バンコク市内をうろうろ !!!</marquee></span></h1>
@@ -125,7 +125,7 @@ p.note { display: none; }
 <!--上段にパンクズリストを入れる時の例-->
 
 <div style="background-color:rgb(255,255,255,0.5);">
-<p class="topicpath"><a href="https://torokoid.github.io/20241120_bangkok/" target="_blank">2024年11月20日、宇都宮からバンコクに移動</a>><!--<a href="https://torokoid.github.io/20240817_hagurosan/" target="_blank">2024年8月17日、羽黒山</a>><a href="https://torokoid.github.io/20240930_hagurosan/" target="_blank">2024年9月30日、羽黒山</a>><a href="https://torokoid.github.io/20241003_cluster/" target="_blank">10月3日、Cluster Accelerator</a>>--><a>11月21日バンコク市内をうろうろ</a></p></div>
+<p class="topicpath"><a href="https://torokoid.github.io/20241120_bangkok/" target="_blank">2024年11月20日、宇都宮からバンコクに移動</a>><a>11月21日バンコク市内をうろうろ</a>><a href="https://torokoid.github.io/20241122_chiangrai/" target="_blank">2024年11月22日、バンコク散策後にチェンライに移動</a><!--<a href="https://torokoid.github.io/20241003_cluster/" target="_blank">10月3日、Cluster Accelerator</a>><a>11月21日バンコク市内をうろうろ</a>--></p></div>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -250,7 +250,7 @@ p.note { display: none; }
 
 <!-- フッタ -->
 <footer>
-<p>Copyright 2024/11/21 S.Hada @Bangkok</p>
+<p>Copyright 2024/11/21 alis @Bangkok</p>
 </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
